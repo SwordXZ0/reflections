@@ -2,8 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 Git creates a new empty repository and you need to do it in order to later be able to add new commits of your files to the git repository.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-staging area is different from the othe two in the way that you can modify it without affecting the original files in the 
-working directory and the ones that are allready in the repository.
+staging area is different from the othe two in the way that you can modify it without affecting the original files in the working directory and the ones that are allready in the repository.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Becasuse with the staging area you can track which changes you has donde and commit one per time if you want to, without affect the files in the working directory allready changed.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you need to add a new feature that seems risky o that may turn out into a new version.
+
