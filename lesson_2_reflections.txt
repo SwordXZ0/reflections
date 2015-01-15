@@ -15,3 +15,6 @@ Because you can see in a graphic way the timeline of the commits that you have c
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 In creates a new commit with the changes and history of both commits
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+the pros are that git makes a lot of the work, but sometimes i could be better to do it by your self in complicated functions or in sensible parts of code.
