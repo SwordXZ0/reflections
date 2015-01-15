@@ -12,3 +12,6 @@ When you need to add a new feature that seems risky o that may turn out into a n
 
 How do the diagrams help you visualize the branch structure?
 Because you can see in a graphic way the timeline of the commits that you have created.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+In creates a new commit with the changes and history of both commits
